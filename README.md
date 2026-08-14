@@ -150,7 +150,6 @@ workbooks remain inside their recording folders.
 
 ## Notes
 
-- The original scripts are not modified.
 - The GUI supports both `.brx` and `.bxr` because both extensions are used in
   MEA workflows and the supplied scripts use `.bxr`.
 - Missing MUA datasets are reported and skipped without preventing LFP analysis.
